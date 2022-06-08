@@ -19,7 +19,7 @@ import kotlinx.android.synthetic.main.fragment_list.*
 
 class ListFragment : Fragment() {
 
-    // test git
+    // test git AADDAS
 
     private lateinit var addUser: FloatingActionButton
     private lateinit var userViewModel: UserViewModel
