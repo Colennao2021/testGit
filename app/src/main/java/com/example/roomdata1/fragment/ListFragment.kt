@@ -19,6 +19,8 @@ import kotlinx.android.synthetic.main.fragment_list.*
 
 class ListFragment : Fragment() {
 
+    // test git
+
     private lateinit var addUser: FloatingActionButton
     private lateinit var userViewModel: UserViewModel
     private lateinit var recycleView: RecyclerView
